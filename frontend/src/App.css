@@ -11,6 +11,13 @@
   will-change: filter;
   transition: filter 300ms;
 }
+.test {
+  color: #f25ca2;
+  color: #5dadf5;
+  color: #3ecf8e;
+  color: #1e1e1e;
+  color: #121212;
+}
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
